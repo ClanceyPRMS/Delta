@@ -1,0 +1,4 @@
+﻿  DT_Main.cpp
+C:\Users\Administrator\source\repos\Delta\Delta\DT_Main.cpp(6,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\Administrator\source\repos\Delta\Delta\DT_Main.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  Delta.vcxproj -> C:\Users\Administrator\source\repos\Delta\Debug\Delta.exe

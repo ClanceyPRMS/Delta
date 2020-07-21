@@ -1,0 +1,3 @@
+Sorry, from v0.2.0_alpha,all the update infomation will be written in the folder A_Update_Info.
+
+从a版0.2.0开始，所有更新信息将放在 A_Update_Info 文件夹。给您带来不便敬请谅解。
